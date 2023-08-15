@@ -15,6 +15,5 @@ public class GithubTest {
         System.out.println("20030826");
         System.out.println("20030826");
         System.out.println("20030826");
-        System.out.println("20030826");
     }
 }
